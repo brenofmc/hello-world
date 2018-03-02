@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+My first repository
+
+I'm 19 and so pround to learn about code!
